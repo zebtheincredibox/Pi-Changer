@@ -1,5 +1,5 @@
 # PiChanger
-This is where she makes a mod.
+This is where i make a mod.
 
 <img src="logo.png" width="150" alt="the mod's logo" />
 
